@@ -35,13 +35,6 @@ button {
   padding: 8px 20px;
   border-radius: 25px;
 }
-.dhruv {
-  position: absolute;
-  top: 50px;
-  left: 50px;
-  font-size: 2rem;
-  font-family: "Climate Crisis", cursive;
-}
 .navbar {
   position: absolute;
   top: 100px;
